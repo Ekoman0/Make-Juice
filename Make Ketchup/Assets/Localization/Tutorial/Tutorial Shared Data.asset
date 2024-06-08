@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorial Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorial
+  m_TableCollectionNameGuidString: 1ff25b95c1ba4384f8a933ca431becc7
+  m_Entries:
+  - m_Id: 224197263360
+    m_Key: BerryJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288131039232
+    m_Key: Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764671082496
+    m_Key: RedLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 823961763840
+    m_Key: GreenLine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397350715392
+    m_Key: StrawberryJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502371893248
+    m_Key: Level1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042535333888
+    m_Key: Level2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1187016523776
+    m_Key: Level3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349453529088
+    m_Key: Level4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1515417944064
+    m_Key: Level5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071846895616
+    m_Key: MandarinJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206203035648
+    m_Key: Level6
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2269922902016
+    m_Key: Level7
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2548386938880
+    m_Key: Level8
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627982245888
+    m_Key: AppleJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653915627520
+    m_Key: Level9
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2993658445824
+    m_Key: Level10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141327306752
+    m_Key: Level11
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628072091648
+    m_Key: Level12
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3757692862464
+    m_Key: TomatoJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3863787782144
+    m_Key: Level13
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002300477440
+    m_Key: Level14
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4263463010304
+    m_Key: Level15
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4496859250688
+    m_Key: Level16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4654263091200
+    m_Key: Level17
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4758151806976
+    m_Key: GrapesJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4828075048960
+    m_Key: Level18
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4896899383296
+    m_Key: Level19
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5045440659456
+    m_Key: PineappleJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5095000555520
+    m_Key: Level20
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5929302147072
+    m_Key: Level21
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6253370851328
+    m_Key: Level22
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6591800852480
+    m_Key: Level24
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6818226159616
+    m_Key: Level25
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6864036347904
+    m_Key: Level26
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7061122498560
+    m_Key: Level27
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7263799656448
+    m_Key: Level28
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7375783378944
+    m_Key: MelonJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989154201600
+    m_Key: Level31
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8141747175424
+    m_Key: Level32
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8383473303552
+    m_Key: Level33
+    m_Metadata:
+      m_Items: []
+  - m_Id: 786336922648576
+    m_Key: WatermelonJuice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096066962472960
+    m_Key: Level40
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096506122878976
+    m_Key: 'Level35
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4261345435500544
+    m_Key: EndLevel
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7307435123948912664
+  references:
+    version: 2
+    RefIds:
+    - rid: 7307435123948912664
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1716653216728

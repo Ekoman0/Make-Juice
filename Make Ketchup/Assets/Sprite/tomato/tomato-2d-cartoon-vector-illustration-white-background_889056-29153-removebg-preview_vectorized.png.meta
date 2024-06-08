@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: 5e854bc4e2a7cf3428660485d3e8d6f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_0
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 3450
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e5ebd3afdd42a448bf3c49a668abbc
+      internalID: -84570605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_1
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 3439
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d7751b18187384a99a3411066aa75a
+      internalID: -707116009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 538
+        width: 2749
+        height: 2889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6358de820cb032e40aec800b25dfb872
+      internalID: 94901852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_3
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 2187
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc55f43496554a40912e5573f9f665d
+      internalID: -468657152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2117
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316420fa2ac123a46acc6d7a193b0f1d
+      internalID: 328054682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_5
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 1754
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8aa3f8d3548694ca0c586fa498813f
+      internalID: -1311422744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_6
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1708
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1f8a284edc7f4c8b606746e3b3464
+      internalID: 1554902958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_7
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1673
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c0b8d4b2464554fa52cb406fe77bbf
+      internalID: 1887037017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_8
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 526
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad0d59ed4569254999ccabdfb2b87b6
+      internalID: 1005738552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_9
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 515
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9147e46387b5d409a0fc1a5ec56276
+      internalID: -413676385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_0: -84570605
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_1: -707116009
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_2: 94901852
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_3: -468657152
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_4: 328054682
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_5: -1311422744
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_6: 1554902958
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_7: 1887037017
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_8: 1005738552
+      tomato-2d-cartoon-vector-illustration-white-background_889056-29153-removebg-preview_vectorized_9: -413676385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,309 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 1ff25b95c1ba4384f8a933ca431becc7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 224197263360
+    m_Localized: MAKE BLUEBERRY JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288131039232
+    m_Localized: '
+
+      "Make juice by combining blueberries!"
+
+      "Don''t worry,
+      it won''t hurt!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397350715392
+    m_Localized: MAKE STRAWBERRY JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502371893248
+    m_Localized: '
+
+      "Produce new fruits by combining the same fruits!"
+
+      "Make
+      juice by combining strawberries!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764671082496
+    m_Localized: "\n\"When the Fruits Come to the Red Line Game\r\n You lose!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 823961763840
+    m_Localized: "\n\"When the Juice Gets to the Green Line Game\r\n You win!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042535333888
+    m_Localized: '
+
+      "Congratulations! If you''ve made it this far, you don''t
+      need the tutorial anymore!"
+
+      "But don''t worry, I will never leave you."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1187016523776
+    m_Localized: '
+
+
+      "Heyyy pay attention to the red line"
+
+      "You can
+      move the red line up by watching ads"
+
+      You don''t enter the game by turning
+      off your internet connection, do you? :(('
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349453529088
+    m_Localized: '
+
+      "More! More juice!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071846895616
+    m_Localized: MAKE TANDERINE JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206203035648
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2269922902016
+    m_Localized: '
+
+      "According to a rumor, the reason why strawberries'' eyes
+      turn is
+
+      The game is to turn off the internet and play :/"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627982245888
+    m_Localized: MAKE APPLE JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2548386938880
+    m_Localized: '"MORE FRUITS!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653915627520
+    m_Localized: '
+
+
+
+      "Well, I guess I forgot to mention something.
+
+      You
+      can pass the level quickly by using the special powers on the top left.
+
+      Yes,
+      yes, I''m sorry for not telling you before, okay, if you pass this level, I
+      can give you a gift, please forgive me.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2993658445824
+    m_Localized: "\u201CWhy do apples look so scary?!\u201D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141327306752
+    m_Localized: '
+
+      "So can you make apple juice without throwing any apples?"
+
+      "Let''s
+      start to force you slowly and see if you can stand it."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3757692862464
+    m_Localized: MAKE TOMATO JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628072091648
+    m_Localized: '
+
+      "TOMATOES?? Man, are we really going to drink tomato juice?
+
+      Who
+      makes this game!!!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3863787782144
+    m_Localized: '
+
+
+      "You know the deal, here''s how to make tomato juice without
+      throwing tomatoes."
+
+      "Let me go to the bathroom, I''ll be right back."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002300477440
+    m_Localized: '
+
+      "Well, can you manage without throwing both apples and
+      tomatoes?"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4263463010304
+    m_Localized: '
+
+      "75% of the players could not pass this part. Just kidding,
+      I made it up"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4496859250688
+    m_Localized: "\n\"hmm, what if we make tomato juice by just throwing strawberries
+      into it?\r\n \"No, it's just an idea\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4758151806976
+    m_Localized: MAKE GRAPE JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4828075048960
+    m_Localized: "\n\"Did you know that grapes have a thousand eyes?\r\n Personally,
+      I didn't know, but whatever\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5045440659456
+    m_Localized: MAKE PINEAPPLE JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5095000555520
+    m_Localized: '
+
+
+      "PINEAPPLE! PINEAPPLE! JUST PINEAPPLE!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4896899383296
+    m_Localized: "\n\n\"Of course pineapple I found out what I am, yes I am a pineapple\r\n
+      Of course, how could I not think of this, my pineapple!!\u201D\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5929302147072
+    m_Localized: '
+
+
+      "NO, IT CANNOT! I can''t access the link to the next fruit
+      indicator! You can win this level this way, right? I''ll try to fix it!"0'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6253370851328
+    m_Localized: '
+
+
+      "I think I''m disconnected too-"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6591800852480
+    m_Localized: "\n\r\n\"Finally! I reset the system and here I am.\r\n Wait a minute,
+      wait a minute, WHAT IS THIS RED LINE?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6818226159616
+    m_Localized: '
+
+      "hmm I guess something is still wrong..."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6864036347904
+    m_Localized: '
+
+
+      "well I probably broke it more."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7061122498560
+    m_Localized: "\n\r\n\"Heh, now everything is okay or not, I don't know if everything
+      is okay.\r\n Just kidding, don't be afraid, I think everything is okay, but
+      I guess"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7375783378944
+    m_Localized: MAKE MELON JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7263799656448
+    m_Localized: "\n\"Well, now that the new fruit has arrived, everything is better!
+      \r\n\"I'm going to sleep for a few episodes and rest. These problems have exhausted
+      me.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989154201600
+    m_Localized: '
+
+      "Good morning, I''m here, I took out a few fruits while
+      I''m at it.
+
+      "Maybe you had a hard time while I was away so that it would
+      be easier for you to pass."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8141747175424
+    m_Localized: '
+
+      "Let''s get some more fruit..."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8383473303552
+    m_Localized: "\n\"There isn't much new in this episode.\r\n But isn't your internet
+      on? Please let it be on:(\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1515417944064
+    m_Localized: '
+
+      "Greetings to our new fruit friend!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 786336922648576
+    m_Localized: MAKE WATERMELON JUICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096066962472960
+    m_Localized: '
+
+
+
+      "This is the last fruit for now, if you can support the
+      development of the game, new fruits will be added in the future. If you play
+      even with your internet connection, it will support we. Thank you <3"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096506122878976
+    m_Localized: '
+
+      "I think you understand the game enough and now I''m leaving,
+      don''t forget to turn on your internet :)"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4261345435500544
+    m_Localized: '
+
+      "This is the last level for now. New levels will be added
+      if you continue to support me :)"'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

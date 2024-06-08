@@ -1,0 +1,238 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_tr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: tr
+  m_SharedData: {fileID: 11400000, guid: 1ff25b95c1ba4384f8a933ca431becc7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 224197263360
+    m_Localized: "YABAN MERS\u0130N\u0130 SUYU YAP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 288131039232
+    m_Localized: "\n \"Yaban mersinlerini birle\u015Ftirerek meyve suyu \xFCret!\"\n\"Merak
+      etme canlar\u0131 ac\u0131mayacak!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 397350715392
+    m_Localized: "\xC7\u0130LEK SUYU YAP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 502371893248
+    m_Localized: "\n \"Ayn\u0131 meyveleri birle\u015Ftirerek yeni meyveler \xFCret!\"\n\"\xC7ilekleri
+      birle\u015Ftirerek meyve suyu \xFCret!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 764671082496
+    m_Localized: "\n\"Meyveler K\u0131rm\u0131z\u0131 \xC7izgiye Geldi\u011Finde
+      Oyunu\n Kaybedersin!\"\n "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 823961763840
+    m_Localized: "\n\"Meyve Suyu Ye\u015Fil \xC7izgiye Geldi\u011Finde Oyunu\n Kazan\u0131rs\u0131n!\"\n "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1042535333888
+    m_Localized: " \n\"Tebrikler! buraya kadar geldiysen art\u0131k \xF6\u011Freticiye
+      ihtiyac\u0131n yok!\"\n\"Ama seni hi\xE7 b\u0131rakmayaca\u011F\u0131m merak
+      etme\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1187016523776
+    m_Localized: "\n\n\"Heyyy k\u0131rm\u0131z\u0131 \xE7izgiye dikkat et\"\n\"Reklam
+      izleyerek k\u0131rm\u0131z\u0131 \xE7izgiyi yukar\u0131ya ta\u015F\u0131yabilirsin\"\nOyuna
+      internetini kapat\u0131p girmiyorsun de\u011Fil mi :(("
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1349453529088
+    m_Localized: "\n \"Daha fazla! Daha fazla meyve suyu!\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2071846895616
+    m_Localized: "MANDAL\u0130NA SUYU YAP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2206203035648
+    m_Localized: "\n\"Sencede en tatl\u0131 meyve yaban mersini de\u011Fil mii \u015Fu
+      tipe bakkkk!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2269922902016
+    m_Localized: "\n \"Bir rivayete g\xF6re \xE7ileklerin g\xF6z\xFCn\xFCn d\xF6nmesinin
+      sebebi \noyunu interneti kapat\u0131p oynamakm\u0131\u015F\u015F\u015F :/\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627982245888
+    m_Localized: ELMA SUYU YAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2548386938880
+    m_Localized: '"DAHA FAZLA MEYVEEE!"
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2653915627520
+    m_Localized: "\n\n\n\"eee san\u0131r\u0131m bir \u015Feyden bahsetmeyi unutmu\u015Fum\nsol
+      \xFCstteki \xF6zel g\xFC\xE7leri kullanarak b\xF6l\xFCm\xFC \xE7abucak ge\xE7ebilirsin\nevet
+      evet daha \xF6nce s\xF6ylemedi\u011Fim i\xE7in \xF6z\xFCr dilerim tamaaam bu
+      b\xF6l\xFCm\xFC ge\xE7ersen sana birer tane hediye edebilirimm beni affet l\xFCtfen.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2993658445824
+    m_Localized: "\"Elmalar neden bu kadar korkun\xE7 g\xF6z\xFCk\xFCyor?!\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3141327306752
+    m_Localized: "\n\"Peki hi\xE7 elma f\u0131rlatmadan elma suyu yapabilir miisin?\"\n\"Yava\u015Ftan
+      seni zorlamaya ba\u015Flayal\u0131m bakal\u0131m dayanabilecek misin\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3757692862464
+    m_Localized: DOMATES SUYU YAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3628072091648
+    m_Localized: "\n\"DOMATES M\u0130?? dostum ger\xE7ekten domates suyu mu i\xE7ece\u011Fiz?\nbu
+      oyunu kim yap\u0131yor!!!\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3863787782144
+    m_Localized: "\n\n\"Olay\u0131 biliyorsun i\u015Fte domates f\u0131rlatmadan
+      domates suyu yapmak\nben bir lavaboya gideyim hemmen geliyorum\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002300477440
+    m_Localized: "\n\"\u015Eey peki hem elma hem domates f\u0131rlatmadan ba\u015Farabilir
+      misin?\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4263463010304
+    m_Localized: "\n\"Oyuncular\u0131n %75 i bu b\xF6l\xFCm\xFC ge\xE7emedi.\u015Faka
+      \u015Faka uydurdum\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4496859250688
+    m_Localized: "\n\"hmm peki sadece \xE7ilek f\u0131rlatarak domates suyu yapsak\n
+      hiii\xE7 \xF6ylesine bir fikir sadece\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4758151806976
+    m_Localized: "\xDCZ\xDCM SUYU YAP"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4828075048960
+    m_Localized: "\n\"\xDCz\xFCm\xFCn bin tane g\xF6z\xFC oldu\u011Funu biliyor muydun?\n
+      \u015Fahsen ben bilmiyordum ,amaaan neyse\"\n\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5045440659456
+    m_Localized: ANANAS SUYU YAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5095000555520
+    m_Localized: '
+
+
+      "ANANASS! ANANASS! SADECE ANANASSSS!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4896899383296
+    m_Localized: "\n\n\"Tabikide ananasss ne oldu\u011Fumu buldum evet ben bir ananas\u0131m\n
+      tabi ya bunu nas\u0131l d\xFC\u015F\xFCnemem ananas\u0131mmm!!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5929302147072
+    m_Localized: "\n\n\"HAYIRR OLAMAZ! s\u0131radaki meyve g\xF6stergesinin ba\u011Flant\u0131s\u0131na
+      ula\u015Fam\u0131yorum! bu b\xF6l\xFCm\xFC bu \u015Fekilde ge\xE7ebilirsin
+      de\u011Fil mi? d\xFCzeltmeye \xE7al\u0131\u015Faca\u011F\u0131m!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6253370851328
+    m_Localized: "\n\n\"san\u0131r\u0131m benim de ba\u011Flant\u0131m kopuy-\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6591800852480
+    m_Localized: "\n\n\"Sonunda! sistemi resetledim ve buraday\u0131m.\n bir dakika
+      bir dakika BU KIRMIZI \xC7\u0130ZG\u0130N\u0130N HAL\u0130 NEEEE!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6818226159616
+    m_Localized: "\n\n\"hmm san\u0131r\u0131m hala bir \u015Feyler ters...\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6864036347904
+    m_Localized: "\n\n\"\u015Fey galiba daha \xE7ok bozdum.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7061122498560
+    m_Localized: "\n\n\"Heh i\u015Fte \u015Fimdi her \u015Fey tamam ya da de\u011Fildir
+      ya da tamamd\u0131r bilmem her \u015Fey tamam m\u0131d\u0131r\n \u015Faka \u015Faka
+      korkkma galiba her \u015Fey tamam ama galiba\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7375783378944
+    m_Localized: KAVUN SUYU YAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7263799656448
+    m_Localized: "\n\"Evvvet yeni meyvede geldi\u011Fine g\xF6re her \u015Fey d\xFCzelmi\u015Ftir!
+      \nben bir ka\xE7 b\xF6l\xFCm uyuyup dinlenece\u011Fim bu sorunlar beni \xE7ok
+      yordu.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7989154201600
+    m_Localized: "\n\"G\xFCnayd\u0131\u0131n ben geldim,haz\u0131r gelmi\u015Fken
+      bir ka\xE7 meyveyi \xE7\u0131kard\u0131m\ndaha kolay ge\xE7 diye ben yokken
+      zorlanm\u0131\u015Fs\u0131nd\u0131r belki.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8141747175424
+    m_Localized: "\n\"Biraz daha meyve \xE7\u0131kartal\u0131m...\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8383473303552
+    m_Localized: "\n\"Bu b\xF6l\xFCm pek bir yenilik yook\n ama senin internetin
+      a\xE7\u0131k de\u011Fil mi l\xFCtfen a\xE7\u0131k olsun:(\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1515417944064
+    m_Localized: "\n \"Yeni meyve arkada\u015F\u0131m\u0131za selam verinn!\"\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 786336922648576
+    m_Localized: KARPUZ SUYU YAP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096066962472960
+    m_Localized: "\n\n\n\"Bu \u015Fimdilik son meyve,oyunun geli\u015Fmesi i\xE7in
+      destek olabilirseniz ileride yeni meyveler eklenecektir internetinizi bile
+      a\xE7arak oynarsan\u0131z destektir te\u015Fekk\xFCrler <3\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1096506122878976
+    m_Localized: "\n\"Oyunu yeterince anlad\u0131\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyorum
+      ve art\u0131k ben gidiyorum sen de internetini a\xE7may\u0131 unutma :)\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4261345435500544
+    m_Localized: "\n\"bu \u015Fimdilik son level.beni desteklemeye devam ederseniz
+      yeni leveller eklenecektir :)\""
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
